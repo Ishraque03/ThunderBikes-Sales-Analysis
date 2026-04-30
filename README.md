@@ -106,7 +106,6 @@ The dashboard is built on a **star schema**, where a central fact table is conne
 The **sales_details** table acts as the central fact table, while all dimension tables provide context for filtering and slicing the data across time, customer, and product perspectives.
 <img width="1254" height="763" alt="Screenshot 2026-04-30 152824" src="https://github.com/user-attachments/assets/6cba5501-7982-43e5-a40b-06f082837fea" />
 
-
 ## **Business Insights**
 ### **Overall Business Performance**
 
@@ -131,7 +130,6 @@ Profit margin held almost flat (+0.03%). Despite the AOV decline, cost control i
 **Order Volume vs Revenue**
 
 Orders grew 20× faster than revenue this month. This divergence needs monitoring: it suggests customers are buying lower-priced SKUs (accessories, clothing) more than premium bikes.
-
 
 
 ### **Trend**
@@ -183,8 +181,6 @@ ThunderBikes' customer base grew from near-zero in early 2011 to over 2,000 new 
 
 ### **Product**
 
-
-
 **Critical imbalance** 
 
 Bikes represent 96.3% of revenue ($28.31M of $29.4M) but only 25.2% of quantity sold (15.2K of 60.4K units). The business is financially concentrated in one category while operationally diversified across three.
@@ -204,8 +200,6 @@ Tires & Tubes (17.32K), Road Bikes (8.07K), Bottles & Cages (7.99K), Helmets (6.
 18,500 customers bought bikes but accessories generated only $700K. With 15.2K bikes sold, average accessory spend per bike transaction is ~$46 — extremely low. Every bike sale is a missed cross-sell opportunity.
 
 **Dead inventory risk:** Bike Stands (249 units), Bike Racks (327), and Vests (565) are near-stagnant SKUs. Holding these products incurs carrying costs without returns. A clearance or bundle strategy is needed urgently.
-
----
 
 ### **Geographic Market Analysis**
 
