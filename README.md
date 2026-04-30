@@ -15,6 +15,15 @@ This project transforms raw transactional data into a fully interactive Power BI
 ## Dataset Used
 - <a href="https://github.com/Ishraque03/ThunderBikes-Sales-Analysis/tree/main/ThunderBikes%20Dataset">Dataset</a>
 
+## Tools & Technologies
+
+| Tool | Purpose |
+|------|---------|
+| **Power BI Desktop** | Dashboard design, data modelling, and interactive visualisations |
+| **Power Query (M Language)** | Data cleaning, transformation, and preparation |
+| **DAX (Data Analysis Expressions)** | Custom KPI measures, time intelligence, and MoM calculations |
+| **Microsoft Excel** | Initial data exploration and validation |
+
 ## Instructions
 
 1.  Download the <a href="https://github.com/Ishraque03/ThunderBikes-Sales-Analysis/blob/main/ThunderBikes%20Sales%20Analysis%20Dashboard.pbix">ThunderBikes Sales Analysis Dashboard.pbix</a> file from the repository.
@@ -289,3 +298,15 @@ ThunderBikes is a healthy, fast-growing business but must shift from acquisition
 - **Diversify geographically:** Reduce dependence on top markets.
 
 - **Fix inventory inefficiencies:** Dead stock is reducing operational performance.
+
+## Conclusion
+
+This project demonstrates how raw transactional data can be transformed into a comprehensive, multi-page business intelligence dashboard and how structured analytical thinking across descriptive, diagnostic, predictive, and prescriptive layers can surface actionable insights that drive real strategic decisions.
+ThunderBikes is a healthy, high-growth business. The data shows a clear path forward: protect the margin, close the accessory cross-sell gap, invest in retention, and diversify geographically. The numbers tell the story — this dashboard makes it visible.
+
+## Author
+
+**Syed Hasan Ishraque**  
+- BBA in General, Bangladesh University of Professionals  
+- Aspiring Data Analyst
+LinkedIn: *www.linkedin.com/in/syed-hasan-ishraque* 
